@@ -1,7 +1,44 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+title: Nutcracker Design Analysis
+description: Design analysis of a nutcracker 
+technologies: [MATLAB]
+image: /assets/images/nutcracker.png
 ---
+
+## Problem Statement and Objective (Find)
+
+Design a nutcracker capable of cracking a standard macademica nut with force input from 1) a human's grip and 2) a linear actuator. Find teh dimensions of the nutcracker and an appropriate linear actuator to use. 
+
+## Constraints and Input Parameters (Given)
+
+- Average max grip force for women 20-30: 65 lbs
+- Macademia cracking force: 222.18 N
+- Average macademia nut diameter: 1 inch
+
+## Approach
+Assumptions:
+- Rigid members
+- Negligible friction at hinge
+- Point contact between nut and jaws
+- For the linear actuator design, I assumed the handle would be roughly a straight line
+
+The nutcracker was modeled as a lever system. Mechanical advantage was calculated using
+
+\[
+MA = \frac{L_{handle}}{L_{jaw}}
+\]
+
+The greater the ratio between L_{handle} and L_{jaw}, the less force input needed fron the user. However, the required length of the tool is greater.
+
+For the linear actuator design, 
+
+## Diagram of Nutcracker Design
+
+*(Insert sketch here)*
+
+![Nutcracker diagram](/assets/images/nutcracker-diagram.png)
+
+## Usability Discussion
+
+The design prioritizes ergonomic handle spacing and sufficient mechanical advantage. A longer handle reduces required hand force but increases device size. The final design balances portability and required cracking force.
