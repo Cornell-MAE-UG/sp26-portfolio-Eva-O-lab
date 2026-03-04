@@ -2,7 +2,6 @@
 layout: project
 title: Nutcracker Design Analysis
 description: Design analysis of a nutcracker 
-image: /assets/images/nutcracker.png
 ---
 
 ## Problem Statement and Objective (Find)
@@ -28,7 +27,7 @@ $$
 MA = \frac{L_{handle}}{L_{jaw}}
 $$
 
-The greater the ratio between $$ L_{handle} $$ and $$ L_{jaw} $$, the less force input needed fron the user. However, the required length of the tool is greater.
+The greater the ratio between $L_{handle}$ and $L_{jaw}$, the less force input needed fron the user. However, the required length of the tool is greater.
 
 For the linear actuator design, 
 
