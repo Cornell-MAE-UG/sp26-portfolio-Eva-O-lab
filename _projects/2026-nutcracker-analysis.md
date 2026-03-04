@@ -32,11 +32,9 @@ The greater the ratio between L_{handle} and L_{jaw}, the less force input neede
 
 For the linear actuator design, 
 
-## Diagram of Nutcracker Design
+## Nutcracker Design
 
-*(Insert sketch here)*
-
-![Nutcracker diagram](/assets/images/nutcracker-diagram.png)
+![Nutcracker diagram](/assets/images/nutcracker.png)
 
 ## Usability Discussion
 
