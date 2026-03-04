@@ -2,7 +2,6 @@
 layout: project
 title: Nutcracker Design Analysis
 description: Design analysis of a nutcracker 
-technologies: [MATLAB]
 image: /assets/images/nutcracker.png
 ---
 
