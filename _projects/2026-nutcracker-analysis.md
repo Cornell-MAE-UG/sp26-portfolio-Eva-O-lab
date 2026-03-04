@@ -28,11 +28,14 @@ $$
 MA = \frac{L_{handle}}{L_{jaw}}
 $$
 
-The greater the ratio between L_{handle} and L_{jaw}, the less force input needed fron the user. However, the required length of the tool is greater.
+The greater the ratio between $$ L_{handle} $$ and $$ L_{jaw} $$, the less force input needed fron the user. However, the required length of the tool is greater.
 
 For the linear actuator design, 
 
 ## Nutcracker Design and usability discussion
 
 ![Nutcracker diagram](/assets/images/nutcracker.png)
+
+## Usability of linear actuator nutcracker
+The addition of the linear actuator makes the overall design much wider, but not much longer. This iteration is much more accesible in design, seeing as it does not rely on variable human grip strength. With the guarenteed input force from the linear actuator, this version will reliably crack macademia nuts for any user. 
 
