@@ -32,10 +32,7 @@ The greater the ratio between L_{handle} and L_{jaw}, the less force input neede
 
 For the linear actuator design, 
 
-## Nutcracker Design
+## Nutcracker Design and usability discussion
 
 ![Nutcracker diagram](/assets/images/nutcracker.png)
 
-## Usability Discussion
-
-The design prioritizes ergonomic handle spacing and sufficient mechanical advantage. A longer handle reduces required hand force but increases device size. The final design balances portability and required cracking force.
