@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker Design Analysis
 description: Design analysis of a nutcracker 
-image: /assets/images/nutcracker.pdf
+image: /assets/images/nutcracker.png
 ---
 
 ## Problem Statement and Objective (Find)
