@@ -33,7 +33,7 @@ For the linear actuator design,
 
 ## Nutcracker Design and usability discussion
 
-<img src="{{ '/assets/images/nutcracker.png' | relative_url }}" alt="Nutcracker diagram">
+![Nutcracker Diagram](/assets/images/nutcracker.png)
 ## Usability of linear actuator nutcracker
 The addition of the linear actuator makes the overall design much wider, but not much longer. This iteration is much more accesible in design, seeing as it does not rely on variable human grip strength. With the guarenteed input force from the linear actuator, this version will reliably crack macademia nuts for any user. 
 
