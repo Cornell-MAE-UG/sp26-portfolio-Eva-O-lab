@@ -9,3 +9,6 @@ image: /assets/images/nutcracker2.png
 
 Choose an appropriate material and cross section for the nutcracker design developed in part 1 such that the maximum deflection is less than 2% of the total length. 
 
+![Nutcracker Diagram](/assets/images/nutcracker2.png)
+![Nutcracker Diagram](/assets/images/nutcracker3.png)
+![Nutcracker Diagram](/assets/images/nutcracker4.png)
